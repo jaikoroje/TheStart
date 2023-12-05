@@ -13,3 +13,6 @@ ages = [4,3,7,6,5,2,8]
 x = cal_mean(ages)
 
 print(x)
+
+for i in range (5,12):
+    print(i)
